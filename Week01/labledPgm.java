@@ -1,11 +1,13 @@
 
-public class NestedPgm2 {
+public class labledPgm {
 
     public static void main(String[] args) {
+        outer:
         for (int i = 1; i <= 3; i++) {
-            for (int j = 1; j <= 2; j++) {
+            inner:
+            for (int j = 1; j <= 4; j++) {
                 if (j == 2) {
-                    continue;
+                    break outer;
                 }
                 System.out.println("i:" + i + "j:" + j);
             }
