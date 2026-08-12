@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Ambiguity",
+            "request": "launch",
+            "mainClass": "Ambiguity",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "StudentProgress",
             "request": "launch",
             "mainClass": "StudentProgress",
