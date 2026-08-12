@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeliveryCalculator",
+            "request": "launch",
+            "mainClass": "DeliveryCalculator",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
