@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Greeter",
+            "request": "launch",
+            "mainClass": "Greeter",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Robot",
             "request": "launch",
             "mainClass": "Robot",
