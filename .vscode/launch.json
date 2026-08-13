@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Robot",
+            "request": "launch",
+            "mainClass": "Robot",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "StudentApp",
             "request": "launch",
             "mainClass": "StudentApp",
