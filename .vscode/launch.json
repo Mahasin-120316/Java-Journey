@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pgm1",
+            "request": "launch",
+            "mainClass": "Pgm1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Printer1",
+            "request": "launch",
+            "mainClass": "Printer1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Printer",
+            "request": "launch",
+            "mainClass": "Printer",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Employee1",
+            "request": "launch",
+            "mainClass": "Employee1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Product1",
+            "request": "launch",
+            "mainClass": "Product1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "School",
+            "request": "launch",
+            "mainClass": "School",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "MethodDemo",
             "request": "launch",
             "mainClass": "MethodDemo",
