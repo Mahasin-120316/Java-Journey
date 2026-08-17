@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BankApplication",
+            "request": "launch",
+            "mainClass": "BankApplication",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Pgm2",
             "request": "launch",
             "mainClass": "Pgm2",
