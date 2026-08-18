@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reorder",
+            "request": "launch",
+            "mainClass": "Week03.Reorder",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Frequency1",
             "request": "launch",
             "mainClass": "Week03.Frequency1",
