@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArraySearch",
+            "request": "launch",
+            "mainClass": "Week03.ArraySearch",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Average",
             "request": "launch",
             "mainClass": "Week03.Average",
