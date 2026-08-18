@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinElement",
+            "request": "launch",
+            "mainClass": "Week03.MinElement",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "BankApplication",
             "request": "launch",
             "mainClass": "BankApplication",
