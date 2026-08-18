@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Week03.Reverse",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Week03.Main2",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "ArraySearch1",
             "request": "launch",
             "mainClass": "Week03.ArraySearch1",
