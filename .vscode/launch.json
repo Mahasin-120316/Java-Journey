@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Checkpoint",
+            "request": "launch",
+            "mainClass": "Week03.Checkpoint",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "SalesReport",
             "request": "launch",
             "mainClass": "Week03.SalesReport",
