@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoDArray1",
+            "request": "launch",
+            "mainClass": "Week03.TwoDArray1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "TwoDArray",
             "request": "launch",
             "mainClass": "Week03.TwoDArray",
