@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SeatAnalyzer",
+            "request": "launch",
+            "mainClass": "Week03.SeatAnalyzer",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Matrix1",
             "request": "launch",
             "mainClass": "Week03.Matrix1",
