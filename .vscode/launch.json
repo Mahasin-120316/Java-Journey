@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array2",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "EvenOdd",
             "request": "launch",
             "mainClass": "EvenOdd",
