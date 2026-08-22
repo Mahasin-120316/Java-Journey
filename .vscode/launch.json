@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Largest3D",
+            "request": "launch",
+            "mainClass": "Largest3D",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Sum3D",
             "request": "launch",
             "mainClass": "Sum3D",
