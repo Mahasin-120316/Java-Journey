@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Water",
+            "request": "launch",
+            "mainClass": "Water",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Sales",
             "request": "launch",
             "mainClass": "Sales",
