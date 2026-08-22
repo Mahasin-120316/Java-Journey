@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Count",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Reverse1",
             "request": "launch",
             "mainClass": "Reverse1",
