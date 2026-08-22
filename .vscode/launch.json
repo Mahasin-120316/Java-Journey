@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Prime",
             "request": "launch",
             "mainClass": "Prime",
