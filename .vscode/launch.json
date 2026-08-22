@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ColumnSum",
+            "request": "launch",
+            "mainClass": "ColumnSum",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "RowSum",
             "request": "launch",
             "mainClass": "RowSum",
