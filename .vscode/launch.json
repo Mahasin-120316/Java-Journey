@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "College",
+            "request": "launch",
+            "mainClass": "College",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Largest3D",
             "request": "launch",
             "mainClass": "Largest3D",
