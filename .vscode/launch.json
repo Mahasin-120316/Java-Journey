@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AttendanceSystem",
+            "request": "launch",
+            "mainClass": "AttendanceSystem",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Cricket",
             "request": "launch",
             "mainClass": "Cricket",
