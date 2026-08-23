@@ -15,6 +15,7 @@ class College {
 
         int total = 0;
         System.out.println("Enter the marks: ");
+
         // Reading marks
         for (int i = 0; i < departments; i++) {
             for (int j = 0; j < classes; j++) {
