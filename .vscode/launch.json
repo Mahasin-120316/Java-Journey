@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PNZ",
+            "request": "launch",
+            "mainClass": "PNZ",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "AttendanceSystem",
             "request": "launch",
             "mainClass": "AttendanceSystem",
