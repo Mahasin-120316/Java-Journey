@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Zero",
+            "request": "launch",
+            "mainClass": "Zero",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Sorted",
             "request": "launch",
             "mainClass": "Sorted",
