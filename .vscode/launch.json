@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Duplicate",
+            "request": "launch",
+            "mainClass": "Duplicate",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "PNZ",
             "request": "launch",
             "mainClass": "PNZ",
