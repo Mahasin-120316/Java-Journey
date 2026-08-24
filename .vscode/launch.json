@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Frequency2",
+            "request": "launch",
+            "mainClass": "Frequency2",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Duplicate",
             "request": "launch",
             "mainClass": "Duplicate",
