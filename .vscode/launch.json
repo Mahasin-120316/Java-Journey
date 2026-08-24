@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sorted",
+            "request": "launch",
+            "mainClass": "Sorted",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Frequency2",
             "request": "launch",
             "mainClass": "Frequency2",
