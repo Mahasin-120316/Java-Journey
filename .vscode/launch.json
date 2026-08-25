@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BonusEligibility",
+            "request": "launch",
+            "mainClass": "BonusEligibility",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "HighestPrice",
             "request": "launch",
             "mainClass": "HighestPrice",
