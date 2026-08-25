@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MissingNum",
+            "request": "launch",
+            "mainClass": "MissingNum",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "AboveAverage",
             "request": "launch",
             "mainClass": "AboveAverage",
