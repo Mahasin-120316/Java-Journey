@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PassedStudents",
+            "request": "launch",
+            "mainClass": "PassedStudents",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "HighestSalary",
             "request": "launch",
             "mainClass": "HighestSalary",
