@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CourseAdvisor",
+            "request": "launch",
+            "mainClass": "CourseAdvisor",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "ArmstrongNumber",
             "request": "launch",
             "mainClass": "ArmstrongNumber",
