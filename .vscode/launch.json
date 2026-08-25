@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmployeeGroups",
+            "request": "launch",
+            "mainClass": "EmployeeGroups",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "MostFrequentProducts",
             "request": "launch",
             "mainClass": "MostFrequentProducts",
