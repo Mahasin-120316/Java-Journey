@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Diff",
+            "request": "launch",
+            "mainClass": "Diff",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "CourseAdvisor",
             "request": "launch",
             "mainClass": "CourseAdvisor",
