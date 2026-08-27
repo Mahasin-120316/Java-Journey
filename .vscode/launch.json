@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumAvg",
+            "request": "launch",
+            "mainClass": "SumAvg",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "CountEvenOdd",
             "request": "launch",
             "mainClass": "CountEvenOdd",
