@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountEvenOdd",
+            "request": "launch",
+            "mainClass": "CountEvenOdd",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "MinMax",
             "request": "launch",
             "mainClass": "MinMax",
