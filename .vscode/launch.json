@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Range",
+            "request": "launch",
+            "mainClass": "Range",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Idential",
             "request": "launch",
             "mainClass": "Idential",
