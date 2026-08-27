@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PNZ1",
+            "request": "launch",
+            "mainClass": "PNZ1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Range",
             "request": "launch",
             "mainClass": "Range",
