@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClosestTarget",
+            "request": "launch",
+            "mainClass": "Week05.ClosestTarget",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "CountSumAvg",
             "request": "launch",
             "mainClass": "Week05.CountSumAvg",
