@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountSumAvg",
+            "request": "launch",
+            "mainClass": "Week05.CountSumAvg",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Distinct",
             "request": "launch",
             "mainClass": "Week05.Distinct",
