@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SecondSmallestDistinct",
+            "request": "launch",
+            "mainClass": "Week05.SecondSmallestDistinct",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "FirstNonRepeating",
             "request": "launch",
             "mainClass": "Week05.FirstNonRepeating",
