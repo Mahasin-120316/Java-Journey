@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Clockwise",
+            "request": "launch",
+            "mainClass": "Week05.Clockwise",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Anticlockwise",
             "request": "launch",
             "mainClass": "Week05.Anticlockwise",
