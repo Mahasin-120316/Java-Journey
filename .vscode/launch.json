@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Anticlockwise",
+            "request": "launch",
+            "mainClass": "Week05.Anticlockwise",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "EleDel",
             "request": "launch",
             "mainClass": "Week05.EleDel",
