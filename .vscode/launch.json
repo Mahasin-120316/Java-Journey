@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ele",
+            "request": "launch",
+            "mainClass": "Week05.Ele",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "MaxConsecutive",
             "request": "launch",
             "mainClass": "Week05.MaxConsecutive",
