@@ -15,5 +15,9 @@ public class Pgm6 {
         System.out.println(s1.contains("Humaira"));
         System.out.println(s1.replace('a', 'x'));
         System.out.println(s1.replace("Humaira", "Fathima"));
+        System.out.println(s1.startsWith("Mahasin"));
+        System.out.println(s1.endsWith("Humaira"));
+        System.out.println(s1.trim());
+        System.out.println(s1.isEmpty());
     }
 }
