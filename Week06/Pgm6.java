@@ -3,6 +3,7 @@ package Week06;
 public class Pgm6 {
     public static void main(String[] args){
         String s1 = "Mahasin Humaira";
+        String s2 = " Humaira";
         System.out.println(s1);
         System.out.println(s1.toLowerCase());
         System.out.println(s1.toUpperCase());
@@ -19,5 +20,11 @@ public class Pgm6 {
         System.out.println(s1.endsWith("Humaira"));
         System.out.println(s1.trim());
         System.out.println(s1.isEmpty());
+        System.out.println(s1.concat(s2));
+        System.out.println(s1.equals(s2));
+        System.out.println(s1.equalsIgnoreCase(s2));
+        System.out.println(s1.compareTo(s2));
+        System.out.println(s1.compareToIgnoreCase(s2));
+        System.out.println(s2.trim());
     }
 }
