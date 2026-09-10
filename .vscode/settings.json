@@ -1,3 +1,16 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.jdt.ls.vmargs": "-Xmx1024m -XX:+UseParallelGC",
+    "java.autobuild.enabled": "auto",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.debug.settings.onBuildFailureProceed": false,
+    "java.debug.settings.forceBuildBeforeLaunch": true,
+    "java.referencesCodeLens.enabled": false,
+    "java.implementationsCodeLens.enabled": false,
+    "code-runner.executorMap": {
+        "java": "cd $workspaceRoot && javac -d . $fileName && java $dirWithoutTrailingSlash.$fileNameWithoutExt"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.preserveFocus": false
 }

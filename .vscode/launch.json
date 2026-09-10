@@ -6,6 +6,349 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RevStr",
+            "request": "launch",
+            "mainClass": "Week06.RevStr",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "StrDemo",
+            "request": "launch",
+            "mainClass": "Week06.StrDemo",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "OriginalText",
+            "request": "launch",
+            "mainClass": "Week06.OriginalText",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "WordFind",
+            "request": "launch",
+            "mainClass": "Week06.WordFind",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Normalize",
+            "request": "launch",
+            "mainClass": "Week06.Normalize",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "TextMatch",
+            "request": "launch",
+            "mainClass": "Week06.TextMatch",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "SpaceCount",
+            "request": "launch",
+            "mainClass": "Week06.SpaceCount",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "CharCount",
+            "request": "launch",
+            "mainClass": "Week06.CharCount",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "CourseDetails",
+            "request": "launch",
+            "mainClass": "Week06.CourseDetails",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "StringComp2",
+            "request": "launch",
+            "mainClass": "Week06.StringComp2",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "StringComp1",
+            "request": "launch",
+            "mainClass": "Week06.StringComp1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "StringComparision",
+            "request": "launch",
+            "mainClass": "Week06.StringComparision",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "TracingChanges",
+            "request": "launch",
+            "mainClass": "Week06.TracingChanges",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod1",
+            "request": "launch",
+            "mainClass": "Week06.StringMethod1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod",
+            "request": "launch",
+            "mainClass": "Week06.StringMethod",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Week06.Main",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Pgm6",
+            "request": "launch",
+            "mainClass": "Week06.Pgm6",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Pgm5",
+            "request": "launch",
+            "mainClass": "Week06.Pgm5",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "MaxSum",
+            "request": "launch",
+            "mainClass": "Week06.MaxSum",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "TargetSum1",
+            "request": "launch",
+            "mainClass": "Week06.TargetSum1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "EquilibriumIndex",
+            "request": "launch",
+            "mainClass": "Week06.EquilibriumIndex",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "MaximumWindow",
+            "request": "launch",
+            "mainClass": "Week06.MaximumWindow",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "MultipleRangeSum",
+            "request": "launch",
+            "mainClass": "Week06.MultipleRangeSum",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSum",
+            "request": "launch",
+            "mainClass": "Week06.PrefixSum",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "MissingNum",
+            "request": "launch",
+            "mainClass": "Week06.MissingNum",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "CountVowels",
+            "request": "launch",
+            "mainClass": "Week06.CountVowels",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Pgm4",
+            "request": "launch",
+            "mainClass": "Week06.Pgm4",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Pgm3",
+            "request": "launch",
+            "mainClass": "Week06.Pgm3",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Pgm2",
+            "request": "launch",
+            "mainClass": "Week06.Pgm2",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Pgm1",
+            "request": "launch",
+            "mainClass": "Week06.Pgm1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "WidestSpan",
+            "request": "launch",
+            "mainClass": "Week06.WidestSpan",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "LongestStreak",
+            "request": "launch",
+            "mainClass": "Week06.LongestStreak",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "TargetBoundary",
+            "request": "launch",
+            "mainClass": "Week06.TargetBoundary",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "IndexBalancing",
+            "request": "launch",
+            "mainClass": "Week06.IndexBalancing",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "RightRotateK",
+            "request": "launch",
+            "mainClass": "Week06.RightRotateK",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "NearestBoundary",
+            "request": "launch",
+            "mainClass": "Week06.NearestBoundary",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "SeperateEvenOdd",
+            "request": "launch",
+            "mainClass": "Week05.SeperateEvenOdd",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome1",
+            "request": "launch",
+            "mainClass": "Week05.Palindrome1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "SeperateZeroOne",
+            "request": "launch",
+            "mainClass": "Week05.SeperateZeroOne",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "MoveNegative",
+            "request": "launch",
+            "mainClass": "Week05.MoveNegative",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Week05.Swap",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "TargetSum",
+            "request": "launch",
+            "mainClass": "Week05.TargetSum",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Suffix",
+            "request": "launch",
+            "mainClass": "Week05.Suffix",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "Prefix",
+            "request": "launch",
+            "mainClass": "Week05.Prefix",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd1",
+            "request": "launch",
+            "mainClass": "Week05.EvenOdd1",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "ReverseRange",
+            "request": "launch",
+            "mainClass": "Week05.ReverseRange",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "MovingZeroes",
+            "request": "launch",
+            "mainClass": "Week05.MovingZeroes",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "MovingZero",
+            "request": "launch",
+            "mainClass": "Week05.MovingZero",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
+            "name": "TwoPointers",
+            "request": "launch",
+            "mainClass": "Week05.TwoPointers",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "Clockwise",
             "request": "launch",
             "mainClass": "Week05.Clockwise",
