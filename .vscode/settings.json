@@ -1,5 +1,5 @@
 {
-    "java.jdt.ls.vmargs": "-Xmx1024m -XX:+UseParallelGC",
+    "java.jdt.ls.vmargs": "-Xmx4096m -XX:+UseParallelGC",
     "java.autobuild.enabled": "auto",
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.debug.settings.onBuildFailureProceed": false,
@@ -7,7 +7,7 @@
     "java.referencesCodeLens.enabled": false,
     "java.implementationsCodeLens.enabled": false,
     "code-runner.executorMap": {
-        "java": "cd $workspaceRoot && javac -d . $fileName && java $dirWithoutTrailingSlash.$fileNameWithoutExt"
+        "java": "cd $workspaceRoot ; javac -d . $relativeFile ; java ('$relativeFile'.Replace('\\','.').Replace('/','.').Replace('.java',''))"
     },
     "code-runner.runInTerminal": true,
     "code-runner.clearPreviousOutput": true,

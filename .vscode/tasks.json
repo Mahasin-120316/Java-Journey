@@ -4,7 +4,7 @@
         {
             "label": "Fast Run Java File",
             "type": "shell",
-            "command": "javac -d . ${relativeFile} ; java ${relativeFileDirname}.${fileBasenameNoExtension}",
+            "command": "javac -d . ${relativeFile} ; java ('${relativeFile}'.Replace('\\','.').Replace('/','.').Replace('.java',''))",
             "group": {
                 "kind": "build",
                 "isDefault": true
