@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountObj",
+            "request": "launch",
+            "mainClass": "Week07.CountObj",
+            "projectName": "Java-Journey_2c726b7"
+        },
+        {
+            "type": "java",
             "name": "RevStr",
             "request": "launch",
             "mainClass": "Week06.RevStr",
